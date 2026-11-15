@@ -1,0 +1,10 @@
+.build/
+.swiftpm/
+dist/
+.DS_Store
+
+# Local previews and configuration
+/preview.png
+.env
+.env.*
+*.log
